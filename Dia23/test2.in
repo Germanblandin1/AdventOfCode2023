@@ -1,0 +1,6 @@
+5
+%a 2 inv, con
+&inv 1 b
+%b 1 con
+&con 1 rx
+broadcaster 1 a

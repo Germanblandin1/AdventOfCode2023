@@ -1,0 +1,6 @@
+5
+broadcaster 3 a, b, c
+%a 1 b
+%b 1 c
+%c 1 inv
+&inv 1 a

@@ -1,0 +1,59 @@
+58
+%hs 1 sl
+&dg 1 rx
+%vp 2 fd, dv
+%kz 2 jc, mc
+%nv 1 dv
+%hx 1 gf
+%mm 1 vh
+%fd 1 td
+&dv 5 hx, bl, rc, fd, xt
+%hg 1 xq
+%td 2 dv, hx
+%bl 1 jt
+%br 1 jq
+%qh 1 ln
+&xq 6 zl, cx, qh, hs, nt, sp
+%sg 2 vv, tr
+%dm 2 bl, dv
+%gt 2 xq, hg
+%ln 2 mq, xq
+%mc 2 xv, jc
+%tx 2 rv, jc
+&lk 1 dg
+%mg 2 hl, jc
+&vv 5 zv, br, kx, mm, tr
+%nt 2 xq, cx
+&zv 1 dg
+%cd 2 jc, ps
+%rc 2 rm, dv
+%nj 2 pt, xq
+broadcaster 4 nt, kx, rc, mg
+%gf 2 dc, dv
+%rm 2 dm, dv
+%xx 2 vv, cz
+%jt 2 dv, vp
+%zl 1 nj
+&sp 1 dg
+%xc 2 jc, kz
+&xt 1 dg
+%tp 1 jc
+%lc 2 vv, vn
+%vh 2 xx, vv
+%mq 2 hs, xq
+%cc 1 vv
+%vn 2 vv, cc
+%tr 1 br
+%hl 2 qb, jc
+%dc 2 dv, nv
+%jq 2 mm, vv
+%kx 2 vv, sg
+%cx 1 qh
+%sl 2 zl, xq
+%cz 2 lc, vv
+%qb 2 jc, cd
+&jc 4 ps, xv, lk, mg
+%xv 1 tx
+%pt 2 xq, gt
+%rv 2 jc, tp
+%ps 1 xc

@@ -1,0 +1,1381 @@
+pasos: 0 1 dif: 1
+pasos: 1 4 dif: 3
+pasos: 2 9 dif: 5
+pasos: 3 15 dif: 6
+pasos: 4 22 dif: 7
+pasos: 5 32 dif: 10
+pasos: 6 44 dif: 12
+pasos: 7 58 dif: 14
+pasos: 8 72 dif: 14
+pasos: 9 89 dif: 17
+pasos: 10 107 dif: 18
+pasos: 11 124 dif: 17
+pasos: 12 143 dif: 19
+pasos: 13 167 dif: 24
+pasos: 14 192 dif: 25
+pasos: 15 218 dif: 26
+pasos: 16 246 dif: 28
+pasos: 17 274 dif: 28
+pasos: 18 305 dif: 31
+pasos: 19 341 dif: 36
+pasos: 20 379 dif: 38
+pasos: 21 414 dif: 35
+pasos: 22 450 dif: 36
+pasos: 23 491 dif: 41
+pasos: 24 535 dif: 44
+pasos: 25 582 dif: 47
+pasos: 26 627 dif: 45
+pasos: 27 680 dif: 53
+pasos: 28 724 dif: 44
+pasos: 29 773 dif: 49
+pasos: 30 828 dif: 55
+pasos: 31 877 dif: 49
+pasos: 32 939 dif: 62
+pasos: 33 978 dif: 39
+pasos: 34 1060 dif: 82
+pasos: 35 1102 dif: 42
+pasos: 36 1184 dif: 82
+pasos: 37 1223 dif: 39
+pasos: 38 1311 dif: 88
+pasos: 39 1352 dif: 41
+pasos: 40 1448 dif: 96
+pasos: 41 1491 dif: 43
+pasos: 42 1589 dif: 98
+pasos: 43 1634 dif: 45
+pasos: 44 1739 dif: 105
+pasos: 45 1795 dif: 56
+pasos: 46 1893 dif: 98
+pasos: 47 1952 dif: 59
+pasos: 48 2050 dif: 98
+pasos: 49 2122 dif: 72
+pasos: 50 2214 dif: 92
+pasos: 51 2299 dif: 85
+pasos: 52 2395 dif: 96
+pasos: 53 2485 dif: 90
+pasos: 54 2581 dif: 96
+pasos: 55 2666 dif: 85
+pasos: 56 2762 dif: 96
+pasos: 57 2848 dif: 86
+pasos: 58 2950 dif: 102
+pasos: 59 3044 dif: 94
+pasos: 60 3154 dif: 110
+pasos: 61 3248 dif: 94
+pasos: 62 3406 dif: 158
+pasos: 63 3509 dif: 103
+pasos: 64 3671 dif: 162
+pasos: 65 3770 dif: 99
+pasos: 66 3935 dif: 165
+pasos: 67 4038 dif: 103
+pasos: 68 4207 dif: 169
+pasos: 69 4277 dif: 70
+pasos: 70 4441 dif: 164
+pasos: 71 4512 dif: 71
+pasos: 72 4698 dif: 186
+pasos: 73 4772 dif: 74
+pasos: 74 4958 dif: 186
+pasos: 75 5031 dif: 73
+pasos: 76 5213 dif: 182
+pasos: 77 5301 dif: 88
+pasos: 78 5488 dif: 187
+pasos: 79 5587 dif: 99
+pasos: 80 5771 dif: 184
+pasos: 81 5870 dif: 99
+pasos: 82 6055 dif: 185
+pasos: 83 6172 dif: 117
+pasos: 84 6336 dif: 164
+pasos: 85 6472 dif: 136
+pasos: 86 6642 dif: 170
+pasos: 87 6776 dif: 134
+pasos: 88 6935 dif: 159
+pasos: 89 7085 dif: 150
+pasos: 90 7250 dif: 165
+pasos: 91 7390 dif: 140
+pasos: 92 7569 dif: 179
+pasos: 93 7712 dif: 143
+pasos: 94 7903 dif: 191
+pasos: 95 8036 dif: 133
+pasos: 96 8235 dif: 199
+pasos: 97 8374 dif: 139
+pasos: 98 8576 dif: 202
+pasos: 99 8708 dif: 132
+pasos: 100 8904 dif: 196
+pasos: 101 9051 dif: 147
+pasos: 102 9250 dif: 199
+pasos: 103 9399 dif: 149
+pasos: 104 9596 dif: 197
+pasos: 105 9758 dif: 162
+pasos: 106 9963 dif: 205
+pasos: 107 10134 dif: 171
+pasos: 108 10335 dif: 201
+pasos: 109 10516 dif: 181
+pasos: 110 10723 dif: 207
+pasos: 111 10927 dif: 204
+pasos: 112 11116 dif: 189
+pasos: 113 11306 dif: 190
+pasos: 114 11501 dif: 195
+pasos: 115 11692 dif: 191
+pasos: 116 11898 dif: 206
+pasos: 117 12111 dif: 213
+pasos: 118 12309 dif: 198
+pasos: 119 12517 dif: 208
+pasos: 120 12725 dif: 208
+pasos: 121 12930 dif: 205
+pasos: 122 13136 dif: 206
+pasos: 123 13341 dif: 205
+pasos: 124 13553 dif: 212
+pasos: 125 13788 dif: 235
+pasos: 126 13992 dif: 204
+pasos: 127 14212 dif: 220
+pasos: 128 14434 dif: 222
+pasos: 129 14661 dif: 227
+pasos: 130 14884 dif: 223
+pasos: 131 15108 dif: 224
+pasos: 132 15332 dif: 224
+pasos: 133 15571 dif: 239
+pasos: 134 15801 dif: 230
+pasos: 135 16019 dif: 218
+pasos: 136 16262 dif: 243
+pasos: 137 16507 dif: 245
+pasos: 138 16744 dif: 237
+pasos: 139 16978 dif: 234
+pasos: 140 17208 dif: 230
+pasos: 141 17461 dif: 253
+pasos: 142 17703 dif: 242
+pasos: 143 17942 dif: 239
+pasos: 144 18198 dif: 256
+pasos: 145 18453 dif: 255
+pasos: 146 18712 dif: 259
+pasos: 147 18956 dif: 244
+pasos: 148 19212 dif: 256
+pasos: 149 19455 dif: 243
+pasos: 150 19726 dif: 271
+pasos: 151 19994 dif: 268
+pasos: 152 20255 dif: 261
+pasos: 153 20531 dif: 276
+pasos: 154 20779 dif: 248
+pasos: 155 21062 dif: 283
+pasos: 156 21325 dif: 263
+pasos: 157 21613 dif: 288
+pasos: 158 21871 dif: 258
+pasos: 159 22155 dif: 284
+pasos: 160 22399 dif: 244
+pasos: 161 22706 dif: 307
+pasos: 162 22939 dif: 233
+pasos: 163 23272 dif: 333
+pasos: 164 23485 dif: 213
+pasos: 165 23854 dif: 369
+pasos: 166 24069 dif: 215
+pasos: 167 24427 dif: 358
+pasos: 168 24651 dif: 224
+pasos: 169 25009 dif: 358
+pasos: 170 25239 dif: 230
+pasos: 171 25593 dif: 354
+pasos: 172 25825 dif: 232
+pasos: 173 26180 dif: 355
+pasos: 174 26412 dif: 232
+pasos: 175 26780 dif: 368
+pasos: 176 27035 dif: 255
+pasos: 177 27399 dif: 364
+pasos: 178 27632 dif: 233
+pasos: 179 28005 dif: 373
+pasos: 180 28256 dif: 251
+pasos: 181 28622 dif: 366
+pasos: 182 28893 dif: 271
+pasos: 183 29267 dif: 374
+pasos: 184 29542 dif: 275
+pasos: 185 29913 dif: 371
+pasos: 186 30157 dif: 244
+pasos: 187 30527 dif: 370
+pasos: 188 30774 dif: 247
+pasos: 189 31159 dif: 385
+pasos: 190 31430 dif: 271
+pasos: 191 31821 dif: 391
+pasos: 192 32077 dif: 256
+pasos: 193 32562 dif: 485
+pasos: 194 32869 dif: 307
+pasos: 195 33366 dif: 497
+pasos: 196 33665 dif: 299
+pasos: 197 34156 dif: 491
+pasos: 198 34457 dif: 301
+pasos: 199 34952 dif: 495
+pasos: 200 35183 dif: 231
+pasos: 201 35625 dif: 442
+pasos: 202 35855 dif: 230
+pasos: 203 36333 dif: 478
+pasos: 204 36560 dif: 227
+pasos: 205 37028 dif: 468
+pasos: 206 37259 dif: 231
+pasos: 207 37714 dif: 455
+pasos: 208 37977 dif: 263
+pasos: 209 38449 dif: 472
+pasos: 210 38740 dif: 291
+pasos: 211 39197 dif: 457
+pasos: 212 39471 dif: 274
+pasos: 213 39939 dif: 468
+pasos: 214 40239 dif: 300
+pasos: 215 40659 dif: 420
+pasos: 216 40994 dif: 335
+pasos: 217 41429 dif: 435
+pasos: 218 41749 dif: 320
+pasos: 219 42164 dif: 415
+pasos: 220 42508 dif: 344
+pasos: 221 42933 dif: 425
+pasos: 222 43255 dif: 322
+pasos: 223 43704 dif: 449
+pasos: 224 44029 dif: 325
+pasos: 225 44492 dif: 463
+pasos: 226 44795 dif: 303
+pasos: 227 45280 dif: 485
+pasos: 228 45597 dif: 317
+pasos: 229 46067 dif: 470
+pasos: 230 46377 dif: 310
+pasos: 231 46825 dif: 448
+pasos: 232 47168 dif: 343
+pasos: 233 47610 dif: 442
+pasos: 234 47957 dif: 347
+pasos: 235 48397 dif: 440
+pasos: 236 48765 dif: 368
+pasos: 237 49224 dif: 459
+pasos: 238 49606 dif: 382
+pasos: 239 50049 dif: 443
+pasos: 240 50443 dif: 394
+pasos: 241 50891 dif: 448
+pasos: 242 51333 dif: 442
+pasos: 243 51746 dif: 413
+pasos: 244 52155 dif: 409
+pasos: 245 52576 dif: 421
+pasos: 246 52985 dif: 409
+pasos: 247 53423 dif: 438
+pasos: 248 53870 dif: 447
+pasos: 249 54286 dif: 416
+pasos: 250 54720 dif: 434
+pasos: 251 55153 dif: 433
+pasos: 252 55581 dif: 428
+pasos: 253 56009 dif: 428
+pasos: 254 56432 dif: 423
+pasos: 255 56869 dif: 437
+pasos: 256 57349 dif: 480
+pasos: 257 57765 dif: 416
+pasos: 258 58211 dif: 446
+pasos: 259 58660 dif: 449
+pasos: 260 59117 dif: 457
+pasos: 261 59564 dif: 447
+pasos: 262 60011 dif: 447
+pasos: 263 60456 dif: 445
+pasos: 264 60929 dif: 473
+pasos: 265 61383 dif: 454
+pasos: 266 61812 dif: 429
+pasos: 267 62288 dif: 476
+pasos: 268 62766 dif: 478
+pasos: 269 63226 dif: 460
+pasos: 270 63680 dif: 454
+pasos: 271 64123 dif: 443
+pasos: 272 64611 dif: 488
+pasos: 273 65078 dif: 467
+pasos: 274 65537 dif: 459
+pasos: 275 66025 dif: 488
+pasos: 276 66510 dif: 485
+pasos: 277 67002 dif: 492
+pasos: 278 67462 dif: 460
+pasos: 279 67946 dif: 484
+pasos: 280 68401 dif: 455
+pasos: 281 68907 dif: 506
+pasos: 282 69405 dif: 498
+pasos: 283 69892 dif: 487
+pasos: 284 70408 dif: 516
+pasos: 285 70863 dif: 455
+pasos: 286 71385 dif: 522
+pasos: 287 71864 dif: 479
+pasos: 288 72395 dif: 531
+pasos: 289 72858 dif: 463
+pasos: 290 73382 dif: 524
+pasos: 291 73821 dif: 439
+pasos: 292 74380 dif: 559
+pasos: 293 74797 dif: 417
+pasos: 294 75401 dif: 604
+pasos: 295 75788 dif: 387
+pasos: 296 76444 dif: 656
+pasos: 297 76832 dif: 388
+pasos: 298 77466 dif: 634
+pasos: 299 77875 dif: 409
+pasos: 300 78503 dif: 628
+pasos: 301 78922 dif: 419
+pasos: 302 79534 dif: 612
+pasos: 303 79955 dif: 421
+pasos: 304 80567 dif: 612
+pasos: 305 80986 dif: 419
+pasos: 306 81617 dif: 631
+pasos: 307 82071 dif: 454
+pasos: 308 82701 dif: 630
+pasos: 309 83108 dif: 407
+pasos: 310 83756 dif: 648
+pasos: 311 84186 dif: 430
+pasos: 312 84826 dif: 640
+pasos: 313 85283 dif: 457
+pasos: 314 85935 dif: 652
+pasos: 315 86395 dif: 460
+pasos: 316 87041 dif: 646
+pasos: 317 87444 dif: 403
+pasos: 318 88088 dif: 644
+pasos: 319 88496 dif: 408
+pasos: 320 89164 dif: 668
+pasos: 321 89612 dif: 448
+pasos: 322 90284 dif: 672
+pasos: 323 90702 dif: 418
+pasos: 324 91514 dif: 812
+pasos: 325 92025 dif: 511
+pasos: 326 92857 dif: 832
+pasos: 327 93356 dif: 499
+pasos: 328 94173 dif: 817
+pasos: 329 94672 dif: 499
+pasos: 330 95493 dif: 821
+pasos: 331 95885 dif: 392
+pasos: 332 96605 dif: 720
+pasos: 333 96994 dif: 389
+pasos: 334 97764 dif: 770
+pasos: 335 98144 dif: 380
+pasos: 336 98894 dif: 750
+pasos: 337 99283 dif: 389
+pasos: 338 100011 dif: 728
+pasos: 339 100449 dif: 438
+pasos: 340 101206 dif: 757
+pasos: 341 101689 dif: 483
+pasos: 342 102419 dif: 730
+pasos: 343 102868 dif: 449
+pasos: 344 103619 dif: 751
+pasos: 345 104102 dif: 483
+pasos: 346 104778 dif: 676
+pasos: 347 105312 dif: 534
+pasos: 348 106012 dif: 700
+pasos: 349 106518 dif: 506
+pasos: 350 107189 dif: 671
+pasos: 351 107727 dif: 538
+pasos: 352 108412 dif: 685
+pasos: 353 108916 dif: 504
+pasos: 354 109635 dif: 719
+pasos: 355 110142 dif: 507
+pasos: 356 110877 dif: 735
+pasos: 357 111350 dif: 473
+pasos: 358 112121 dif: 771
+pasos: 359 112616 dif: 495
+pasos: 360 113354 dif: 738
+pasos: 361 113842 dif: 488
+pasos: 362 114542 dif: 700
+pasos: 363 115081 dif: 539
+pasos: 364 115766 dif: 685
+pasos: 365 116311 dif: 545
+pasos: 366 116994 dif: 683
+pasos: 367 117568 dif: 574
+pasos: 368 118281 dif: 713
+pasos: 369 118874 dif: 593
+pasos: 370 119559 dif: 685
+pasos: 371 120166 dif: 607
+pasos: 372 120855 dif: 689
+pasos: 373 121535 dif: 680
+pasos: 374 122172 dif: 637
+pasos: 375 122800 dif: 628
+pasos: 376 123447 dif: 647
+pasos: 377 124074 dif: 627
+pasos: 378 124744 dif: 670
+pasos: 379 125425 dif: 681
+pasos: 380 126059 dif: 634
+pasos: 381 126719 dif: 660
+pasos: 382 127377 dif: 658
+pasos: 383 128028 dif: 651
+pasos: 384 128678 dif: 650
+pasos: 385 129319 dif: 641
+pasos: 386 129981 dif: 662
+pasos: 387 130706 dif: 725
+pasos: 388 131334 dif: 628
+pasos: 389 132006 dif: 672
+pasos: 390 132682 dif: 676
+pasos: 391 133369 dif: 687
+pasos: 392 134040 dif: 671
+pasos: 393 134710 dif: 670
+pasos: 394 135376 dif: 666
+pasos: 395 136083 dif: 707
+pasos: 396 136761 dif: 678
+pasos: 397 137401 dif: 640
+pasos: 398 138110 dif: 709
+pasos: 399 138821 dif: 711
+pasos: 400 139504 dif: 683
+pasos: 401 140178 dif: 674
+pasos: 402 140834 dif: 656
+pasos: 403 141557 dif: 723
+pasos: 404 142249 dif: 692
+pasos: 405 142928 dif: 679
+pasos: 406 143648 dif: 720
+pasos: 407 144363 dif: 715
+pasos: 408 145088 dif: 725
+pasos: 409 145764 dif: 676
+pasos: 410 146476 dif: 712
+pasos: 411 147143 dif: 667
+pasos: 412 147884 dif: 741
+pasos: 413 148612 dif: 728
+pasos: 414 149325 dif: 713
+pasos: 415 150081 dif: 756
+pasos: 416 150743 dif: 662
+pasos: 417 151504 dif: 761
+pasos: 418 152199 dif: 695
+pasos: 419 152973 dif: 774
+pasos: 420 153641 dif: 668
+pasos: 421 154405 dif: 764
+pasos: 422 155039 dif: 634
+pasos: 423 155850 dif: 811
+pasos: 424 156451 dif: 601
+pasos: 425 157326 dif: 875
+pasos: 426 157887 dif: 561
+pasos: 427 158830 dif: 943
+pasos: 428 159391 dif: 561
+pasos: 429 160301 dif: 910
+pasos: 430 160895 dif: 594
+pasos: 431 161793 dif: 898
+pasos: 432 162401 dif: 608
+pasos: 433 163271 dif: 870
+pasos: 434 163881 dif: 610
+pasos: 435 164750 dif: 869
+pasos: 436 165356 dif: 606
+pasos: 437 166250 dif: 894
+pasos: 438 166903 dif: 653
+pasos: 439 167799 dif: 896
+pasos: 440 168380 dif: 581
+pasos: 441 169303 dif: 923
+pasos: 442 169912 dif: 609
+pasos: 443 170826 dif: 914
+pasos: 444 171469 dif: 643
+pasos: 445 172399 dif: 930
+pasos: 446 173044 dif: 645
+pasos: 447 173965 dif: 921
+pasos: 448 174527 dif: 562
+pasos: 449 175445 dif: 918
+pasos: 450 176014 dif: 569
+pasos: 451 176965 dif: 951
+pasos: 452 177590 dif: 625
+pasos: 453 178543 dif: 953
+pasos: 454 179123 dif: 580
+pasos: 455 180262 dif: 1139
+pasos: 456 180977 dif: 715
+pasos: 457 182144 dif: 1167
+pasos: 458 182843 dif: 699
+pasos: 459 183986 dif: 1143
+pasos: 460 184683 dif: 697
+pasos: 461 185830 dif: 1147
+pasos: 462 186383 dif: 553
+pasos: 463 187381 dif: 998
+pasos: 464 187929 dif: 548
+pasos: 465 188991 dif: 1062
+pasos: 466 189524 dif: 533
+pasos: 467 190556 dif: 1032
+pasos: 468 191103 dif: 547
+pasos: 469 192104 dif: 1001
+pasos: 470 192717 dif: 613
+pasos: 471 193759 dif: 1042
+pasos: 472 194434 dif: 675
+pasos: 473 195437 dif: 1003
+pasos: 474 196061 dif: 624
+pasos: 475 197095 dif: 1034
+pasos: 476 197761 dif: 666
+pasos: 477 198693 dif: 932
+pasos: 478 199426 dif: 733
+pasos: 479 200391 dif: 965
+pasos: 480 201083 dif: 692
+pasos: 481 202010 dif: 927
+pasos: 482 202742 dif: 732
+pasos: 483 203687 dif: 945
+pasos: 484 204373 dif: 686
+pasos: 485 205362 dif: 989
+pasos: 486 206051 dif: 689
+pasos: 487 207058 dif: 1007
+pasos: 488 207701 dif: 643
+pasos: 489 208758 dif: 1057
+pasos: 490 209431 dif: 673
+pasos: 491 210437 dif: 1006
+pasos: 492 211103 dif: 666
+pasos: 493 212055 dif: 952
+pasos: 494 212790 dif: 735
+pasos: 495 213718 dif: 928
+pasos: 496 214461 dif: 743
+pasos: 497 215387 dif: 926
+pasos: 498 216167 dif: 780
+pasos: 499 217134 dif: 967
+pasos: 500 217938 dif: 804
+pasos: 501 218865 dif: 927
+pasos: 502 219685 dif: 820
+pasos: 503 220615 dif: 930
+pasos: 504 221533 dif: 918
+pasos: 505 222394 dif: 861
+pasos: 506 223241 dif: 847
+pasos: 507 224114 dif: 873
+pasos: 508 224959 dif: 845
+pasos: 509 225861 dif: 902
+pasos: 510 226776 dif: 915
+pasos: 511 227628 dif: 852
+pasos: 512 228514 dif: 886
+pasos: 513 229397 dif: 883
+pasos: 514 230271 dif: 874
+pasos: 515 231143 dif: 872
+pasos: 516 232002 dif: 859
+pasos: 517 232889 dif: 887
+pasos: 518 233859 dif: 970
+pasos: 519 234699 dif: 840
+pasos: 520 235597 dif: 898
+pasos: 521 236500 dif: 903
+pasos: 522 237417 dif: 917
+pasos: 523 238312 dif: 895
+pasos: 524 239205 dif: 893
+pasos: 525 240092 dif: 887
+pasos: 526 241033 dif: 941
+pasos: 527 241935 dif: 902
+pasos: 528 242786 dif: 851
+pasos: 529 243728 dif: 942
+pasos: 530 244672 dif: 944
+pasos: 531 245578 dif: 906
+pasos: 532 246472 dif: 894
+pasos: 533 247341 dif: 869
+pasos: 534 248299 dif: 958
+pasos: 535 249216 dif: 917
+pasos: 536 250115 dif: 899
+pasos: 537 251067 dif: 952
+pasos: 538 252012 dif: 945
+pasos: 539 252970 dif: 958
+pasos: 540 253862 dif: 892
+pasos: 541 254802 dif: 940
+pasos: 542 255681 dif: 879
+pasos: 543 256657 dif: 976
+pasos: 544 257615 dif: 958
+pasos: 545 258554 dif: 939
+pasos: 546 259550 dif: 996
+pasos: 547 260419 dif: 869
+pasos: 548 261419 dif: 1000
+pasos: 549 262330 dif: 911
+pasos: 550 263347 dif: 1017
+pasos: 551 264220 dif: 873
+pasos: 552 265224 dif: 1004
+pasos: 553 266053 dif: 829
+pasos: 554 267116 dif: 1063
+pasos: 555 267901 dif: 785
+pasos: 556 269047 dif: 1146
+pasos: 557 269782 dif: 735
+pasos: 558 271012 dif: 1230
+pasos: 559 271746 dif: 734
+pasos: 560 272932 dif: 1186
+pasos: 561 273711 dif: 779
+pasos: 562 274879 dif: 1168
+pasos: 563 275676 dif: 797
+pasos: 564 276804 dif: 1128
+pasos: 565 277603 dif: 799
+pasos: 566 278729 dif: 1126
+pasos: 567 279522 dif: 793
+pasos: 568 280679 dif: 1157
+pasos: 569 281531 dif: 852
+pasos: 570 282693 dif: 1162
+pasos: 571 283448 dif: 755
+pasos: 572 284646 dif: 1198
+pasos: 573 285434 dif: 788
+pasos: 574 286622 dif: 1188
+pasos: 575 287451 dif: 829
+pasos: 576 288659 dif: 1208
+pasos: 577 289489 dif: 830
+pasos: 578 290685 dif: 1196
+pasos: 579 291406 dif: 721
+pasos: 580 292598 dif: 1192
+pasos: 581 293328 dif: 730
+pasos: 582 294562 dif: 1234
+pasos: 583 295364 dif: 802
+pasos: 584 296598 dif: 1234
+pasos: 585 297340 dif: 742
+pasos: 586 298806 dif: 1466
+pasos: 587 299725 dif: 919
+pasos: 588 301227 dif: 1502
+pasos: 589 302126 dif: 899
+pasos: 590 303595 dif: 1469
+pasos: 591 304490 dif: 895
+pasos: 592 305963 dif: 1473
+pasos: 593 306677 dif: 714
+pasos: 594 307953 dif: 1276
+pasos: 595 308660 dif: 707
+pasos: 596 310014 dif: 1354
+pasos: 597 310700 dif: 686
+pasos: 598 312014 dif: 1314
+pasos: 599 312719 dif: 705
+pasos: 600 313993 dif: 1274
+pasos: 601 314781 dif: 788
+pasos: 602 316108 dif: 1327
+pasos: 603 316975 dif: 867
+pasos: 604 318251 dif: 1276
+pasos: 605 319050 dif: 799
+pasos: 606 320367 dif: 1317
+pasos: 607 321216 dif: 849
+pasos: 608 322404 dif: 1188
+pasos: 609 323336 dif: 932
+pasos: 610 324566 dif: 1230
+pasos: 611 325444 dif: 878
+pasos: 612 326627 dif: 1183
+pasos: 613 327553 dif: 926
+pasos: 614 328758 dif: 1205
+pasos: 615 329626 dif: 868
+pasos: 616 330885 dif: 1259
+pasos: 617 331756 dif: 871
+pasos: 618 333035 dif: 1279
+pasos: 619 333848 dif: 813
+pasos: 620 335191 dif: 1343
+pasos: 621 336042 dif: 851
+pasos: 622 337316 dif: 1274
+pasos: 623 338160 dif: 844
+pasos: 624 339364 dif: 1204
+pasos: 625 340295 dif: 931
+pasos: 626 341466 dif: 1171
+pasos: 627 342407 dif: 941
+pasos: 628 343576 dif: 1169
+pasos: 629 344562 dif: 986
+pasos: 630 345783 dif: 1221
+pasos: 631 346798 dif: 1015
+pasos: 632 347967 dif: 1169
+pasos: 633 349000 dif: 1033
+pasos: 634 350171 dif: 1171
+pasos: 635 351327 dif: 1156
+pasos: 636 352412 dif: 1085
+pasos: 637 353478 dif: 1066
+pasos: 638 354577 dif: 1099
+pasos: 639 355640 dif: 1063
+pasos: 640 356774 dif: 1134
+pasos: 641 357923 dif: 1149
+pasos: 642 358993 dif: 1070
+pasos: 643 360105 dif: 1112
+pasos: 644 361213 dif: 1108
+pasos: 645 362310 dif: 1097
+pasos: 646 363404 dif: 1094
+pasos: 647 364481 dif: 1077
+pasos: 648 365593 dif: 1112
+pasos: 649 366808 dif: 1215
+pasos: 650 367860 dif: 1052
+pasos: 651 368984 dif: 1124
+pasos: 652 370114 dif: 1130
+pasos: 653 371261 dif: 1147
+pasos: 654 372380 dif: 1119
+pasos: 655 373496 dif: 1116
+pasos: 656 374604 dif: 1108
+pasos: 657 375779 dif: 1175
+pasos: 658 376905 dif: 1126
+pasos: 659 377967 dif: 1062
+pasos: 660 379142 dif: 1175
+pasos: 661 380319 dif: 1177
+pasos: 662 381448 dif: 1129
+pasos: 663 382562 dif: 1114
+pasos: 664 383644 dif: 1082
+pasos: 665 384837 dif: 1193
+pasos: 666 385979 dif: 1142
+pasos: 667 387098 dif: 1119
+pasos: 668 388282 dif: 1184
+pasos: 669 389457 dif: 1175
+pasos: 670 390648 dif: 1191
+pasos: 671 391756 dif: 1108
+pasos: 672 392924 dif: 1168
+pasos: 673 394015 dif: 1091
+pasos: 674 395226 dif: 1211
+pasos: 675 396414 dif: 1188
+pasos: 676 397579 dif: 1165
+pasos: 677 398815 dif: 1236
+pasos: 678 399891 dif: 1076
+pasos: 679 401130 dif: 1239
+pasos: 680 402257 dif: 1127
+pasos: 681 403517 dif: 1260
+pasos: 682 404595 dif: 1078
+pasos: 683 405839 dif: 1244
+pasos: 684 406863 dif: 1024
+pasos: 685 408178 dif: 1315
+pasos: 686 409147 dif: 969
+pasos: 687 410564 dif: 1417
+pasos: 688 411473 dif: 909
+pasos: 689 412990 dif: 1517
+pasos: 690 413897 dif: 907
+pasos: 691 415359 dif: 1462
+pasos: 692 416323 dif: 964
+pasos: 693 417761 dif: 1438
+pasos: 694 418747 dif: 986
+pasos: 695 420133 dif: 1386
+pasos: 696 421121 dif: 988
+pasos: 697 422504 dif: 1383
+pasos: 698 423484 dif: 980
+pasos: 699 424904 dif: 1420
+pasos: 700 425955 dif: 1051
+pasos: 701 427383 dif: 1428
+pasos: 702 428312 dif: 929
+pasos: 703 429785 dif: 1473
+pasos: 704 430752 dif: 967
+pasos: 705 432214 dif: 1462
+pasos: 706 433229 dif: 1015
+pasos: 707 434715 dif: 1486
+pasos: 708 435730 dif: 1015
+pasos: 709 437201 dif: 1471
+pasos: 710 438081 dif: 880
+pasos: 711 439547 dif: 1466
+pasos: 712 440438 dif: 891
+pasos: 713 441955 dif: 1517
+pasos: 714 442934 dif: 979
+pasos: 715 444449 dif: 1515
+pasos: 716 445353 dif: 904
+pasos: 717 447146 dif: 1793
+pasos: 718 448269 dif: 1123
+pasos: 719 450106 dif: 1837
+pasos: 720 451205 dif: 1099
+pasos: 721 453000 dif: 1795
+pasos: 722 454093 dif: 1093
+pasos: 723 455892 dif: 1799
+pasos: 724 456767 dif: 875
+pasos: 725 458321 dif: 1554
+pasos: 726 459187 dif: 866
+pasos: 727 460833 dif: 1646
+pasos: 728 461672 dif: 839
+pasos: 729 463268 dif: 1596
+pasos: 730 464131 dif: 863
+pasos: 731 465678 dif: 1547
+pasos: 732 466641 dif: 963
+pasos: 733 468253 dif: 1612
+pasos: 734 469312 dif: 1059
+pasos: 735 470861 dif: 1549
+pasos: 736 471835 dif: 974
+pasos: 737 473435 dif: 1600
+pasos: 738 474467 dif: 1032
+pasos: 739 475911 dif: 1444
+pasos: 740 477042 dif: 1131
+pasos: 741 478537 dif: 1495
+pasos: 742 479601 dif: 1064
+pasos: 743 481040 dif: 1439
+pasos: 744 482160 dif: 1120
+pasos: 745 483625 dif: 1465
+pasos: 746 484675 dif: 1050
+pasos: 747 486204 dif: 1529
+pasos: 748 487257 dif: 1053
+pasos: 749 488808 dif: 1551
+pasos: 750 489791 dif: 983
+pasos: 751 491420 dif: 1629
+pasos: 752 492449 dif: 1029
+pasos: 753 493991 dif: 1542
+pasos: 754 495013 dif: 1022
+pasos: 755 496469 dif: 1456
+pasos: 756 497596 dif: 1127
+pasos: 757 499010 dif: 1414
+pasos: 758 500149 dif: 1139
+pasos: 759 501561 dif: 1412
+pasos: 760 502753 dif: 1192
+pasos: 761 504228 dif: 1475
+pasos: 762 505454 dif: 1226
+pasos: 763 506865 dif: 1411
+pasos: 764 508111 dif: 1246
+pasos: 765 509523 dif: 1412
+pasos: 766 510917 dif: 1394
+pasos: 767 512226 dif: 1309
+pasos: 768 513511 dif: 1285
+pasos: 769 514836 dif: 1325
+pasos: 770 516117 dif: 1281
+pasos: 771 517483 dif: 1366
+pasos: 772 518866 dif: 1383
+pasos: 773 520154 dif: 1288
+pasos: 774 521492 dif: 1338
+pasos: 775 522825 dif: 1333
+pasos: 776 524145 dif: 1320
+pasos: 777 525461 dif: 1316
+pasos: 778 526756 dif: 1295
+pasos: 779 528093 dif: 1337
+pasos: 780 529553 dif: 1460
+pasos: 781 530817 dif: 1264
+pasos: 782 532167 dif: 1350
+pasos: 783 533524 dif: 1357
+pasos: 784 534901 dif: 1377
+pasos: 785 536244 dif: 1343
+pasos: 786 537583 dif: 1339
+pasos: 787 538912 dif: 1329
+pasos: 788 540321 dif: 1409
+pasos: 789 541671 dif: 1350
+pasos: 790 542944 dif: 1273
+pasos: 791 544352 dif: 1408
+pasos: 792 545762 dif: 1410
+pasos: 793 547114 dif: 1352
+pasos: 794 548448 dif: 1334
+pasos: 795 549743 dif: 1295
+pasos: 796 551171 dif: 1428
+pasos: 797 552538 dif: 1367
+pasos: 798 553877 dif: 1339
+pasos: 799 555293 dif: 1416
+pasos: 800 556698 dif: 1405
+pasos: 801 558122 dif: 1424
+pasos: 802 559446 dif: 1324
+pasos: 803 560842 dif: 1396
+pasos: 804 562145 dif: 1303
+pasos: 805 563591 dif: 1446
+pasos: 806 565009 dif: 1418
+pasos: 807 566400 dif: 1391
+pasos: 808 567876 dif: 1476
+pasos: 809 569159 dif: 1283
+pasos: 810 570637 dif: 1478
+pasos: 811 571980 dif: 1343
+pasos: 812 573483 dif: 1503
+pasos: 813 574766 dif: 1283
+pasos: 814 576250 dif: 1484
+pasos: 815 577469 dif: 1219
+pasos: 816 579036 dif: 1567
+pasos: 817 580189 dif: 1153
+pasos: 818 581877 dif: 1688
+pasos: 819 582960 dif: 1083
+pasos: 820 584764 dif: 1804
+pasos: 821 585844 dif: 1080
+pasos: 822 587582 dif: 1738
+pasos: 823 588731 dif: 1149
+pasos: 824 590439 dif: 1708
+pasos: 825 591614 dif: 1175
+pasos: 826 593258 dif: 1644
+pasos: 827 594435 dif: 1177
+pasos: 828 596075 dif: 1640
+pasos: 829 597242 dif: 1167
+pasos: 830 598925 dif: 1683
+pasos: 831 600175 dif: 1250
+pasos: 832 601869 dif: 1694
+pasos: 833 602972 dif: 1103
+pasos: 834 604720 dif: 1748
+pasos: 835 605866 dif: 1146
+pasos: 836 607602 dif: 1736
+pasos: 837 608803 dif: 1201
+pasos: 838 610567 dif: 1764
+pasos: 839 611767 dif: 1200
+pasos: 840 613513 dif: 1746
+pasos: 841 614552 dif: 1039
+pasos: 842 616292 dif: 1740
+pasos: 843 617344 dif: 1052
+pasos: 844 619144 dif: 1800
+pasos: 845 620300 dif: 1156
+pasos: 846 622096 dif: 1796
+pasos: 847 623162 dif: 1066
+pasos: 848 625282 dif: 2120
+pasos: 849 626609 dif: 1327
+pasos: 850 628781 dif: 2172
+pasos: 851 630080 dif: 1299
+pasos: 852 632201 dif: 2121
+pasos: 853 633492 dif: 1291
+pasos: 854 635617 dif: 2125
+pasos: 855 636653 dif: 1036
+pasos: 856 638485 dif: 1832
+pasos: 857 639510 dif: 1025
+pasos: 858 641448 dif: 1938
+pasos: 859 642440 dif: 992
+pasos: 860 644318 dif: 1878
+pasos: 861 645339 dif: 1021
+pasos: 862 647159 dif: 1820
+pasos: 863 648297 dif: 1138
+pasos: 864 650194 dif: 1897
+pasos: 865 651445 dif: 1251
+pasos: 866 653267 dif: 1822
+pasos: 867 654416 dif: 1149
+pasos: 868 656299 dif: 1883
+pasos: 869 657514 dif: 1215
+pasos: 870 659214 dif: 1700
+pasos: 871 660544 dif: 1330
+pasos: 872 662304 dif: 1760
+pasos: 873 663554 dif: 1250
+pasos: 874 665249 dif: 1695
+pasos: 875 666563 dif: 1314
+pasos: 876 668288 dif: 1725
+pasos: 877 669520 dif: 1232
+pasos: 878 671319 dif: 1799
+pasos: 879 672554 dif: 1235
+pasos: 880 674377 dif: 1823
+pasos: 881 675530 dif: 1153
+pasos: 882 677445 dif: 1915
+pasos: 883 678652 dif: 1207
+pasos: 884 680462 dif: 1810
+pasos: 885 681662 dif: 1200
+pasos: 886 683370 dif: 1708
+pasos: 887 684693 dif: 1323
+pasos: 888 686350 dif: 1657
+pasos: 889 687687 dif: 1337
+pasos: 890 689342 dif: 1655
+pasos: 891 690740 dif: 1398
+pasos: 892 692469 dif: 1729
+pasos: 893 693906 dif: 1437
+pasos: 894 695559 dif: 1653
+pasos: 895 697018 dif: 1459
+pasos: 896 698671 dif: 1653
+pasos: 897 700303 dif: 1632
+pasos: 898 701836 dif: 1533
+pasos: 899 703340 dif: 1504
+pasos: 900 704891 dif: 1551
+pasos: 901 706390 dif: 1499
+pasos: 902 707988 dif: 1598
+pasos: 903 709605 dif: 1617
+pasos: 904 711111 dif: 1506
+pasos: 905 712675 dif: 1564
+pasos: 906 714233 dif: 1558
+pasos: 907 715776 dif: 1543
+pasos: 908 717314 dif: 1538
+pasos: 909 718827 dif: 1513
+pasos: 910 720389 dif: 1562
+pasos: 911 722094 dif: 1705
+pasos: 912 723570 dif: 1476
+pasos: 913 725146 dif: 1576
+pasos: 914 726730 dif: 1584
+pasos: 915 728337 dif: 1607
+pasos: 916 729904 dif: 1567
+pasos: 917 731466 dif: 1562
+pasos: 918 733016 dif: 1550
+pasos: 919 734659 dif: 1643
+pasos: 920 736233 dif: 1574
+pasos: 921 737717 dif: 1484
+pasos: 922 739358 dif: 1641
+pasos: 923 741001 dif: 1643
+pasos: 924 742576 dif: 1575
+pasos: 925 744130 dif: 1554
+pasos: 926 745638 dif: 1508
+pasos: 927 747301 dif: 1663
+pasos: 928 748893 dif: 1592
+pasos: 929 750452 dif: 1559
+pasos: 930 752100 dif: 1648
+pasos: 931 753735 dif: 1635
+pasos: 932 755392 dif: 1657
+pasos: 933 756932 dif: 1540
+pasos: 934 758556 dif: 1624
+pasos: 935 760071 dif: 1515
+pasos: 936 761752 dif: 1681
+pasos: 937 763400 dif: 1648
+pasos: 938 765017 dif: 1617
+pasos: 939 766733 dif: 1716
+pasos: 940 768223 dif: 1490
+pasos: 941 769940 dif: 1717
+pasos: 942 771499 dif: 1559
+pasos: 943 773245 dif: 1746
+pasos: 944 774733 dif: 1488
+pasos: 945 776457 dif: 1724
+pasos: 946 777871 dif: 1414
+pasos: 947 779690 dif: 1819
+pasos: 948 781027 dif: 1337
+pasos: 949 782986 dif: 1959
+pasos: 950 784243 dif: 1257
+pasos: 951 786334 dif: 2091
+pasos: 952 787587 dif: 1253
+pasos: 953 789601 dif: 2014
+pasos: 954 790935 dif: 1334
+pasos: 955 792913 dif: 1978
+pasos: 956 794277 dif: 1364
+pasos: 957 796179 dif: 1902
+pasos: 958 797545 dif: 1366
+pasos: 959 799442 dif: 1897
+pasos: 960 800796 dif: 1354
+pasos: 961 802742 dif: 1946
+pasos: 962 804191 dif: 1449
+pasos: 963 806151 dif: 1960
+pasos: 964 807428 dif: 1277
+pasos: 965 809451 dif: 2023
+pasos: 966 810776 dif: 1325
+pasos: 967 812786 dif: 2010
+pasos: 968 814173 dif: 1387
+pasos: 969 816215 dif: 2042
+pasos: 970 817600 dif: 1385
+pasos: 971 819621 dif: 2021
+pasos: 972 820819 dif: 1198
+pasos: 973 822833 dif: 2014
+pasos: 974 824046 dif: 1213
+pasos: 975 826129 dif: 2083
+pasos: 976 827462 dif: 1333
+pasos: 977 829539 dif: 2077
+pasos: 978 830767 dif: 1228
+pasos: 979 833214 dif: 2447
+pasos: 980 834745 dif: 1531
+pasos: 981 837252 dif: 2507
+pasos: 982 838751 dif: 1499
+pasos: 983 841198 dif: 2447
+pasos: 984 842687 dif: 1489
+pasos: 985 845138 dif: 2451
+pasos: 986 846335 dif: 1197
+pasos: 987 848445 dif: 2110
+pasos: 988 849629 dif: 1184
+pasos: 989 851859 dif: 2230
+pasos: 990 853004 dif: 1145
+pasos: 991 855164 dif: 2160
+pasos: 992 856343 dif: 1179
+pasos: 993 858436 dif: 2093
+pasos: 994 859749 dif: 1313
+pasos: 995 861931 dif: 2182
+pasos: 996 863374 dif: 1443
+pasos: 997 865469 dif: 2095
+pasos: 998 866793 dif: 1324
+pasos: 999 868959 dif: 2166
+pasos: 1000 870357 dif: 1398
+pasos: 1001 872313 dif: 1956
+pasos: 1002 873842 dif: 1529
+pasos: 1003 875867 dif: 2025
+pasos: 1004 877303 dif: 1436
+pasos: 1005 879254 dif: 1951
+pasos: 1006 880762 dif: 1508
+pasos: 1007 882747 dif: 1985
+pasos: 1008 884161 dif: 1414
+pasos: 1009 886230 dif: 2069
+pasos: 1010 887647 dif: 1417
+pasos: 1011 889742 dif: 2095
+pasos: 1012 891065 dif: 1323
+pasos: 1013 893266 dif: 2201
+pasos: 1014 894651 dif: 1385
+pasos: 1015 896729 dif: 2078
+pasos: 1016 898107 dif: 1378
+pasos: 1017 900067 dif: 1960
+pasos: 1018 901586 dif: 1519
+pasos: 1019 903486 dif: 1900
+pasos: 1020 905021 dif: 1535
+pasos: 1021 906919 dif: 1898
+pasos: 1022 908523 dif: 1604
+pasos: 1023 910506 dif: 1983
+pasos: 1024 912154 dif: 1648
+pasos: 1025 914049 dif: 1895
+pasos: 1026 915721 dif: 1672
+pasos: 1027 917615 dif: 1894
+pasos: 1028 919485 dif: 1870
+pasos: 1029 921242 dif: 1757
+pasos: 1030 922965 dif: 1723
+pasos: 1031 924742 dif: 1777
+pasos: 1032 926459 dif: 1717
+pasos: 1033 928289 dif: 1830
+pasos: 1034 930140 dif: 1851
+pasos: 1035 931864 dif: 1724
+pasos: 1036 933654 dif: 1790
+pasos: 1037 935437 dif: 1783
+pasos: 1038 937203 dif: 1766
+pasos: 1039 938963 dif: 1760
+pasos: 1040 940694 dif: 1731
+pasos: 1041 942481 dif: 1787
+pasos: 1042 944431 dif: 1950
+pasos: 1043 946119 dif: 1688
+pasos: 1044 947921 dif: 1802
+pasos: 1045 949732 dif: 1811
+pasos: 1046 951569 dif: 1837
+pasos: 1047 953360 dif: 1791
+pasos: 1048 955145 dif: 1785
+pasos: 1049 956916 dif: 1771
+pasos: 1050 958793 dif: 1877
+pasos: 1051 960591 dif: 1798
+pasos: 1052 962286 dif: 1695
+pasos: 1053 964160 dif: 1874
+pasos: 1054 966036 dif: 1876
+pasos: 1055 967834 dif: 1798
+pasos: 1056 969608 dif: 1774
+pasos: 1057 971329 dif: 1721
+pasos: 1058 973227 dif: 1898
+pasos: 1059 975044 dif: 1817
+pasos: 1060 976823 dif: 1779
+pasos: 1061 978703 dif: 1880
+pasos: 1062 980568 dif: 1865
+pasos: 1063 982458 dif: 1890
+pasos: 1064 984214 dif: 1756
+pasos: 1065 986066 dif: 1852
+pasos: 1066 987793 dif: 1727
+pasos: 1067 989709 dif: 1916
+pasos: 1068 991587 dif: 1878
+pasos: 1069 993430 dif: 1843
+pasos: 1070 995386 dif: 1956
+pasos: 1071 997083 dif: 1697
+pasos: 1072 999039 dif: 1956
+pasos: 1073 1000814 dif: 1775
+pasos: 1074 1002803 dif: 1989
+pasos: 1075 1004496 dif: 1693
+pasos: 1076 1006460 dif: 1964
+pasos: 1077 1008069 dif: 1609
+pasos: 1078 1010140 dif: 2071
+pasos: 1079 1011661 dif: 1521
+pasos: 1080 1013891 dif: 2230
+pasos: 1081 1015322 dif: 1431
+pasos: 1082 1017700 dif: 2378
+pasos: 1083 1019126 dif: 1426
+pasos: 1084 1021416 dif: 2290
+pasos: 1085 1022935 dif: 1519
+pasos: 1086 1025183 dif: 2248
+pasos: 1087 1026736 dif: 1553
+pasos: 1088 1028896 dif: 2160
+pasos: 1089 1030451 dif: 1555
+pasos: 1090 1032605 dif: 2154
+pasos: 1091 1034146 dif: 1541
+pasos: 1092 1036355 dif: 2209
+pasos: 1093 1038003 dif: 1648
+pasos: 1094 1040229 dif: 2226
+pasos: 1095 1041680 dif: 1451
+pasos: 1096 1043978 dif: 2298
+pasos: 1097 1045482 dif: 1504
+pasos: 1098 1047766 dif: 2284
+pasos: 1099 1049339 dif: 1573
+pasos: 1100 1051659 dif: 2320
+pasos: 1101 1053229 dif: 1570
+pasos: 1102 1055525 dif: 2296
+pasos: 1103 1056882 dif: 1357
+pasos: 1104 1059170 dif: 2288
+pasos: 1105 1060544 dif: 1374
+pasos: 1106 1062910 dif: 2366
+pasos: 1107 1064420 dif: 1510
+pasos: 1108 1066778 dif: 2358
+pasos: 1109 1068168 dif: 1390
+pasos: 1110 1070942 dif: 2774
+pasos: 1111 1072677 dif: 1735
+pasos: 1112 1075519 dif: 2842
+pasos: 1113 1077218 dif: 1699
+pasos: 1114 1079991 dif: 2773
+pasos: 1115 1081678 dif: 1687
+pasos: 1116 1084455 dif: 2777
+pasos: 1117 1085813 dif: 1358
+pasos: 1118 1088201 dif: 2388
+pasos: 1119 1089544 dif: 1343
+pasos: 1120 1092066 dif: 2522
+pasos: 1121 1093364 dif: 1298
+pasos: 1122 1095806 dif: 2442
+pasos: 1123 1097143 dif: 1337
+pasos: 1124 1099509 dif: 2366
+pasos: 1125 1100997 dif: 1488
+pasos: 1126 1103464 dif: 2467
+pasos: 1127 1105099 dif: 1635
+pasos: 1128 1107467 dif: 2368
+pasos: 1129 1108966 dif: 1499
+pasos: 1130 1111415 dif: 2449
+pasos: 1131 1112996 dif: 1581
+pasos: 1132 1115208 dif: 2212
+pasos: 1133 1116936 dif: 1728
+pasos: 1134 1119226 dif: 2290
+pasos: 1135 1120848 dif: 1622
+pasos: 1136 1123055 dif: 2207
+pasos: 1137 1124757 dif: 1702
+pasos: 1138 1127002 dif: 2245
+pasos: 1139 1128598 dif: 1596
+pasos: 1140 1130937 dif: 2339
+pasos: 1141 1132536 dif: 1599
+pasos: 1142 1134903 dif: 2367
+pasos: 1143 1136396 dif: 1493
+pasos: 1144 1138883 dif: 2487
+pasos: 1145 1140446 dif: 1563
+pasos: 1146 1142792 dif: 2346
+pasos: 1147 1144348 dif: 1556
+pasos: 1148 1146560 dif: 2212
+pasos: 1149 1148275 dif: 1715
+pasos: 1150 1150418 dif: 2143
+pasos: 1151 1152151 dif: 1733
+pasos: 1152 1154292 dif: 2141
+pasos: 1153 1156102 dif: 1810
+pasos: 1154 1158339 dif: 2237
+pasos: 1155 1160198 dif: 1859
+pasos: 1156 1162335 dif: 2137
+pasos: 1157 1164220 dif: 1885
+pasos: 1158 1166355 dif: 2135
+pasos: 1159 1168463 dif: 2108
+pasos: 1160 1170444 dif: 1981
+pasos: 1161 1172386 dif: 1942
+pasos: 1162 1174389 dif: 2003
+pasos: 1163 1176324 dif: 1935
+pasos: 1164 1178386 dif: 2062
+pasos: 1165 1180471 dif: 2085
+pasos: 1166 1182413 dif: 1942
+pasos: 1167 1184429 dif: 2016
+pasos: 1168 1186437 dif: 2008
+pasos: 1169 1188426 dif: 1989
+pasos: 1170 1190408 dif: 1982
+pasos: 1171 1192357 dif: 1949
+pasos: 1172 1194369 dif: 2012
+pasos: 1173 1196564 dif: 2195
+pasos: 1174 1198464 dif: 1900
+pasos: 1175 1200492 dif: 2028
+722094 1705 944431 1950
+245
+212
+226
+227
+230
+224
+223
+221
+234
+224
+211
+233
+233
+223
+220
+213
+235
+225
+220
+232
+230
+233
+216
+228
+212
+235
+230
+226
+240
+207
+239
+216
+243
+205
+240
+195
+252
+184
+271
+174
+287
+173
+276
+185
+270
+189
+258
+189
+257
+187
+263
+199
+266
+174
+275
+179
+274
+186
+278
+185
+275
+159
+274
+161
+283
+177
+281
+162
+327
+204
+335
+200
+326
+198
+326
+161
+278
+159
+292
+153
+282
+158
+273
+175
+285
+192
+273
+175
+283
+183
+256
+199
+265
+186
+256
+194
+260
+182
+270
+182
+272
+170
+286
+178
+268
+178
+252
+196
+243
+198
+243
+206
+254
+211
+242
+213
+241
+238
+224
+219
+226
+218
+232
+234
+218
+226
+225
+223
+222
+218
+225
+722094 245 720389
+suma: 609704741214123
+suma: 609704784101715
+suma: 609704829821509
+suma: 609704875743604
+suma: 609704922272601
+suma: 609704967587800
+suma: 609705012700701
+suma: 609705057409004
+suma: 609705104747209
+suma: 609705150062415
+suma: 609705192747722
+suma: 609705239883632
+suma: 609705287019544
+suma: 609705332132458
+suma: 609705376638472
+suma: 609705419728389
+suma: 609705467268907
+suma: 609705512786424
+suma: 609705557292443
+suma: 609705604226067
+suma: 609705650755092
+suma: 609705697891018
+suma: 609705741587846
+suma: 609705787712274
+suma: 609705830599905
+suma: 609705878140441
+suma: 609705924669479
+suma: 609705970389314
+suma: 609706018941350
+suma: 609706060817491
+suma: 609706109167235
+suma: 609706152864082
+suma: 609706202023027
+suma: 609706243494580
+suma: 609706292046624
+suma: 609706331495173
+suma: 609706382474828
+suma: 609706419698077
+suma: 609706474521439
+suma: 609706509721678
+suma: 609706567781860
+suma: 609706602779802
+suma: 609706658614684
+suma: 609706696040223
+suma: 609706750661311
+suma: 609706788896052
+suma: 609706841089548
+suma: 609706879324291
+suma: 609706931315489
+suma: 609706969145634
+suma: 609707022350639
+suma: 609707062608395
+suma: 609707116420293
+suma: 609707151620552
+suma: 609707207253150
+suma: 609707243464922
+suma: 609707298895214
+suma: 609707336523099
+suma: 609707392762595
+suma: 609707430188185
+suma: 609707485820781
+suma: 609707517986566
+suma: 609707573416862
+suma: 609707605987248
+suma: 609707663238250
+suma: 609707699045444
+suma: 609707755891854
+suma: 609707788664548
+suma: 609707854816806
+suma: 609707896086109
+suma: 609707963856771
+suma: 609708004316870

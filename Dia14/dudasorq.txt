@@ -1,0 +1,3 @@
+Entender el oif, basico
+entender como mapear la info de los archivos del cliente y llevarlo a OIF
+
